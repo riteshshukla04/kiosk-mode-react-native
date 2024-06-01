@@ -17,6 +17,10 @@ const Kiosk = NativeModules.Kiosk
       }
     );
 
-export function multiply(a: number, b: number): Promise<number> {
-  return Kiosk.multiply(a, b);
+export function enableKioskMode(): Promise<void> {
+  return Kiosk.enableKioskMode();
+}
+
+export function disableKioskMode(): Promise<void> {
+  return Kiosk.disableKioskMode();
 }
