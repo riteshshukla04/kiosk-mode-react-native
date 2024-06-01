@@ -1,5 +1,5 @@
 {
-  "name": "react-native-kiosk",
+  "name": "kiosk-mode-react-native",
   "version": "0.1.0",
   "description": "A Library for setting up kiosk mode with react native",
   "main": "lib/commonjs/index",
