@@ -5,13 +5,13 @@ A Library for setting up kiosk mode on Android with react native
 ## Installation
 
 ```sh
-npm install kiosk-mode-react-native
+npm install kiosk-react-native
 ```
 
 ## Usage
 
 ```js
-import { enableKioskMode, disableKioskMode } from 'kiosk-mode-react-native';
+import { enableKioskMode, disableKioskMode } from 'kiosk-react-native';
 
 // Enable Kiosk Mode
 enableKioskMode();
