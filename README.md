@@ -1,4 +1,4 @@
-# react-native-kiosk
+# kiosk-mode-react-native
 
 A Library for setting up kiosk mode on Android with react native
 
